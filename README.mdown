@@ -1,0 +1,14 @@
+How To Use
+==========
+
+<pre>
+git init .
+git add * && git commit -a -m 'hello world'
+heroku create --stack cedar
+git push heroku master
+</pre>
+	
+Reference
+==========
+
+* 0-60: Deploying Goliath on Heroku Cedar <http://www.igvita.com/2011/06/02/0-60-deploying-goliath-on-heroku-cedar/>
