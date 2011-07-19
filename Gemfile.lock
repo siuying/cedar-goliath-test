@@ -62,3 +62,4 @@ DEPENDENCIES
   em-http-request!
   em-synchrony!
   goliath!
+  url_mount
